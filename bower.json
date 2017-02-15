@@ -1,0 +1,12 @@
+{
+  "name": "polymer-fetch",
+  "description": "Polymer wrapper around Fetch",
+  "main": "polymer-fetch.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0",
+    "fetch": "^2.0.2",
+    "promise-polyfill": "polymerlabs/promise-polyfill#^1.0.1"
+  },
+  "devDependencies": {
+  }
+}
